@@ -1,0 +1,20 @@
+; List all SteamIDs to allow on the server
+; 1 per line
+
+; Admin 255
+76561198325354531
+
+; Caster Colo
+76561198395145018
+
+; Caster Mati (Biodog)
+76561198801933867
+
+; Kevin arbitro
+76561198929193009
+
+; Players
+
+; Lista de espera
+
+
