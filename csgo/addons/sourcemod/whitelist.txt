@@ -10,8 +10,14 @@
 ; Caster Mati (Biodog)
 76561198801933867
 
-; Kevin arbitro
-76561198929193009
+; Caster Kevin
+76561198839049020
+
+; Arbitro Axel
+76561198966667941
+
+; Host Adri
+76561198133756129
 
 ; Players
 
