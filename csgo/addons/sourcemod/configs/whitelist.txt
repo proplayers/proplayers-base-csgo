@@ -7,17 +7,8 @@
 ; Manager Rulitox
 76561198107219340
 
-; Caster Colo
-76561198395145018
-
-; Arbitro Axel
-76561198966667941
-
-; Arbitro Alan
-76561198372626096
-
-; Host Adri
-76561198133756129
+; Arbitro Leo
+76561198405650141
 
 ; Players
 
